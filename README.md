@@ -1,3 +1,4 @@
 # Black Jack Card Game
 ----
-![BlackJack](https://github.com/pbs1057/MFCApplication2/assets/138650046/4a90e829-5b9e-407e-bce6-68cfb7098068)
+![BlackJack](https://github.com/pbs1057/Black-Jack/assets/138650046/803830e6-d12c-4246-bcdc-d927e4572a37)
+
