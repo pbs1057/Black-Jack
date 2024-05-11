@@ -1,3 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-###### BlackJack Card Game
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+# BlackJack Card Game
+----
+![BlackJack](https://github.com/pbs1057/MFCApplication2/assets/138650046/4a90e829-5b9e-407e-bce6-68cfb7098068)
